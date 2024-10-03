@@ -1,0 +1,7 @@
+class
+song
+game
+chess
+masterpiece
+mango
+rat
